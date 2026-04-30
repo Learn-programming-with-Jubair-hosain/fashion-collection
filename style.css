@@ -51,17 +51,17 @@ body{
     justify-content: space-around;
     margin-top: 50PX;
 }
-.card-contan span{
+.card-content span{
     color: #fabe4c;
     font-size: 80px;
     font-weight: 400;
 }
-.card-contan h1{
+.card-content h1{
     color: #363958;
     font-size: 80px;
     font-weight: 400px;
 }
-.card-contan p{
+.card-content p{
     color: #3e3e3e;
     font-size: 16px;
     font-weight: 400px;
@@ -70,7 +70,7 @@ body{
 }
 
 /* Button  */
-.card-contan button{
+.card-content button{
     display: flex;
     text-align: center;
     margin-top: 20px;
@@ -142,8 +142,8 @@ body{
 
 .jaket-text button{
     color: #ffffff;
-    width: 170px;
-    height: 60px;
+    width: 150px;
+    height: 40px;
     background-color: #85A019;
      font-size: 16px;
      font-weight: 500px;
